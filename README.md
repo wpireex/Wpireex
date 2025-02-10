@@ -4,7 +4,7 @@ Oii, Prazer eu sou o Werbert Pires!!!
 - 🖥️ Desenvolvedor Full Stack
 - 🌱 Atualmente aprendendo React e Node.js
 - 💼 Procurando colaborar em projetos open source
-- 📫 Como me contactar: [seu-email@example.com](mailto:seu-email@example.com)
+- 📫 Como me contactar: [seu-email@example.com](mailto:werbeert@hotmail.com)
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wpireex&show_icons=true&theme=radical)

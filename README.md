@@ -7,16 +7,11 @@ Oii, Prazer eu sou o Werbert Pires!!!
 - 📫 Como me contactar: [seu-email@example.com](mailto:seu-email@example.com)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wpireex&show_icons=true&theme=radical)
 
 ## Linguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wpireex&layout=compact&theme=radical)
 
-<div align="center">
-  <a href="https://github.com/wpireex">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wpireex&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpireex&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

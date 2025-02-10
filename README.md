@@ -1,7 +1,7 @@
 Oii, Prazer eu sou o Werbert Pires!!!
 
 ## Sobre Mim
-- 🖥️ Desenvolvedor Full Stack
+- 🖥️ Desenvolvedor Back End
 - 🌱 Atualmente aprendendo React e Node.js
 - 💼 Procurando colaborar em projetos open source
 - 📫 Como me contactar: [werbeert@hotmail.com](mailto:werbeert@hotmail.com)
